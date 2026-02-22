@@ -1,0 +1,8 @@
+{
+  "name": "youtube-analyzer-backend",
+  "version": "1.0.0",
+  "description": "YouTube API proxy",
+  "main": "api/analyze.js",
+  "scripts": {},
+  "license": "MIT"
+}
